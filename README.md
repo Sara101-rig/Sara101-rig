@@ -4,6 +4,9 @@
 ## Sara Valentina Garzon Rojas
 **Profesión:** Analisis y desarrolladora de software 
 
+ <img src="https://pin.it/7EC2jpu3Y">
+
+
 ## 📞 Contacto 
 - **Email:** (saravalentinagarzonrojas840@gmail.com) (mailto:saravalentinagarzonrojas840@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)

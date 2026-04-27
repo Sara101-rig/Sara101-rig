@@ -9,7 +9,7 @@
 ## 📞 Contacto 
 - **Email:** (saravalentinagarzonrojas840@gmail.com) (mailto:saravalentinagarzonrojas840@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-<img src="https://pin.it/7EC2jpu3Y">
+<img align="right" width="250" src= "https://pin.it/7EC2jpu3Y">
 ## 🏢 Experiencia Laboral
 ### **Sena** _(2025- Actualidad)_
 - HTML

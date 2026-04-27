@@ -1,16 +1,30 @@
+
+
+<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/j.sanskarr/">
+  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
+<a href="https://twitter.com/TitanWithKagune">
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+</a>
+
+
+
+
+<br />
+<br />
+
+
+ 
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 # CV_SaraValentinaGarzonRojas
 # Hoja de Vida
 
 ## Sara Valentina Garzon Rojas
 **Profesión:** Analisis y desarrolladora de software 
-
-<p align="left"> <img src="https://pin.it/7EC2jpu3Y" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="Img" src="https://pin.it/7EC2jpu3Y">
-</a>
 
 
 ## 📞 Contacto 

@@ -1,3 +1,4 @@
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Sara!</p>
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <br>
 

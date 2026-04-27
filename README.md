@@ -1,25 +1,11 @@
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/j.sanskarr/">
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
+**Enthusiast web developer** 
+<br>
+<br>
+<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<br>
 
 
-
-
-<br />
-<br />
-
-
- 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-# CV_SaraValentinaGarzonRojas
-# Hoja de Vida
+  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ## Sara Valentina Garzon Rojas
 **Profesión:** Analisis y desarrolladora de software 
